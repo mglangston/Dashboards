@@ -6,6 +6,7 @@
 [Tableau Public link](https://public.tableau.com/profile/melanie2935#!/vizhome/ThinkfulSuperstoreStrategicDashboard_15589009366270/Dashboard1)
 
 **Analytic Dashboard** - Superstore KPIs
+
 [Tableau Public Link](https://public.tableau.com/profile/melanie2935#!/vizhome/ThinkfulAnalyticDashboardStartingpoint_15589001204500/Dashboard1)
 
 
